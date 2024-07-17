@@ -1,1 +1,3 @@
 # Slot_Machine_using_Python
+Hey guys!
+so, this is a small project on python. I tried to make a slot machine, hope you will like it <3.....
